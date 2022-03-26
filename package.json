@@ -1,0 +1,22 @@
+{
+  "name": "craco-copy-webpack-plugin",
+  "version": "1.0.0",
+  "description": "craco plugin for copying files",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "craco",
+    "copy",
+    "webpack",
+    "plugin",
+    "copy-webpack-plugin",
+    "create-react-app"
+  ],
+  "author": "Rajesh Wellington",
+  "license": "MIT",
+  "devDependencies": {
+   "copy-webpack-plugin": "6.4.1"
+  }
+}
