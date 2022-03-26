@@ -2,7 +2,7 @@
 
 
 # craco-copy-webpack-plugin
-This is a craco plugin that adds [copy-webpack-plugin] support to create-react-app version >= 2 and webpack 4.
+This is a craco plugin that adds [copy-webpack-plugin](https://github.com/discrete-javascript/craco-copy-webpack-plugin.git)
 
 ## Installation
 First, follow the [`craco` Installation Instructions](https://github.com/sharegate/craco/blob/master/packages/craco/README.md##installation) to install the `craco` package, create a `craco.config.js` file.
